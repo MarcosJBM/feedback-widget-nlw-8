@@ -1,46 +1,29 @@
 <div align="center">
-  <img src=".github/title.svg" alt="Nome do projeto" height="100px" />
-
-  <h2>Next Level Week #8</h2>
-  <h2>ReactJS | React Native | NodeJS</h2>
+  <img src=".github/cover.svg" alt="Project cover" width="720" />
 </div>
 
-<div align="center">
-  <a href="#about">📖 Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#design">🎨 Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">🔩 Tecnologias</a>
-</div>
+# 📖 About
 
-</br>
+**Feedback Widget** is a component that can be used in both **mobile** and **web** applications, in order to collect feedback from its users.
 
-<div align="center">
-  <img src=".github/front-cover.svg" alt="Capa do projeto Feedback Widget" width="780px" />
-</div>
+Project developed during **Next Level Week 8**, by [Rocketseat](https://www.rocketseat.com.br/).
 
-<a id="about"></a>
+# 💻 Site
 
-# 📖 Sobre o Projeto
-
-O **Feedback Widget** é um componente que pode ser utilizado tanto em aplicações **Web** como em aplicações **Mobile**, com o intuito de coletar o feedback de seus usuários.
-
-A versão web foi hospedada na [**Vercel**](https://vercel.com/), caso queira dar uma olhada, clique [**aqui**](https://feedback-widget-nlw-8.vercel.app/).
-
-<a id="design"></a>
+Access the [application](https://feedback-widget-nlw-8.vercel.app/) and take a look.
 
 # 🎨 Design
 
-O design do componente está disponivel no Figma, tanto na sua versão [**Web**](<https://www.figma.com/file/MQR24hkEUND513hz0yDDxU/Feedback-Widget-(Community)?node-id=10%3A1637>) como na sua versão [**Mobile**](<https://www.figma.com/file/MQR24hkEUND513hz0yDDxU/Feedback-Widget-(Community)?node-id=10%3A1638>).
+The component design is available in [**Figma**](https://www.figma.com/), in two versions, [**mobile**](<https://www.figma.com/file/MQR24hkEUND513hz0yDDxU/Feedback- Widget-(Community)?node-id=10%3A1638>) and [**web**](<https://www.figma.com/file/MQR24hkEUND513hz0yDDxU/Feedback-Widget-(Community)?node-id=10%3A1637>).
 
-<a id="technologies"></a>
+# 🔩 Technologies
 
-# 🔩 Tecnologias
-
-Estas foram as principais tecnologias utilizadas.
-
-- [ReactJS](https://pt-br.reactjs.org/)
+- [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://docs.expo.dev/)
-- [NodeJS](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
+- [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
